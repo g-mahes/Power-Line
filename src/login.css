@@ -1,0 +1,6 @@
+.signIn {
+    display: flex;
+        align-Items: center;
+        justify-Content: center;
+        height: 90vh;
+}

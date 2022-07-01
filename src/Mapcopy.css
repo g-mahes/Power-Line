@@ -1,0 +1,86 @@
+.logout {
+    text-align: left;
+    background-color: rgb(62, 177, 227);
+    color:white;
+    width: 58px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 3px;
+}
+
+.logout:hover{
+    background-color: rgb(5, 139, 197);  
+}
+
+.background {
+    color:rgb(226, 171, 99);
+    background-color: rgb(255, 255, 255);
+    height: 810px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thresholdButton{
+    background-color: rgb(62, 177, 227);
+    width: 128px;
+    color:white;
+    border-radius: 3px;
+}
+
+.thresholdButton:hover{
+    background-color: rgb(5, 139, 197);  
+}
+
+.map {
+    height: 270px;
+    width: 800px;
+    justify-content: center;
+    margin: 0 auto;
+    padding-top: 50px;
+    background-color: rgb(255, 255, 255);
+}
+
+.thresInput {
+    padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.addLine{
+    background-color: rgb(62, 177, 227);  
+    margin-left: 736px;
+    border-radius: 3px;
+    color: white;
+    margin-top: 10px;
+}
+
+.addLine:hover{
+    background-color: rgb(5, 139, 197);  
+    
+}
+
+.addInput{
+    padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.formbox{
+    text-align: center;
+    
+}
+
+.forminput{
+
+    display: block;
+    width: 100%;
+    padding: .5rem .8rem .5rem .8rem;
+    margin: .9vw 0 ;
+    border:0;
+    border-radius: 5px;
+}
